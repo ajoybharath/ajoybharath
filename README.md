@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajoybharath
 - 👀 I’m interested in CloudNative & Cloud Solutions 
-- 🌱 I’m currently renewing AWS, CKA, DCA certifications
+- 🌱 I’m currently preparing KCN{A,S) and renewing CK{AD,A,S) DCA & AWS certifications
 - 🌱 I’m currently learning SAFe POPM
 - 💞️ I’m looking to collaborate on Agile, SAFe, Product Owner, Product Manager & CloudNative solutions
 - 📫 How to reach me: Search "Ajoy K Bharath" in Linkedin 
